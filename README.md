@@ -1,4 +1,6 @@
-Projects: Practical projects I have done
+Projects: Overview of practical projects I have done
+
+Prototyping Horyzn eVTOL landing gear: Short overview over the prototyping process of a landing gear
 
 
 
